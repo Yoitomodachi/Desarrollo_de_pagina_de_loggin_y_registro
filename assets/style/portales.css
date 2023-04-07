@@ -1,0 +1,40 @@
+/*
+    Autor: Roberto Rico Sandoval.
+    Fille: Stilo de la página de bienvenida del sitio.
+    Date: 06/ 04/ 2023
+*/
+
+html, body{
+
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#letra_del_portal{
+
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.link_del_portal{
+
+    color: rgb(240, 247, 149);
+    text-decoration: none;
+}
+
+.imagenes_del_portal{
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+
+}
+
